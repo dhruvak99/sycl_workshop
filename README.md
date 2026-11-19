@@ -60,7 +60,7 @@ Choose the instructions that match your computer:
 Open **PowerShell as Administrator** and run:
 
 ``` powershell
-wsl --install -d Ubuntu-24.04
+wsl --install 
 ```
 
 Restart Windows if prompted. Launch **Ubuntu 24.04** from the Start menu
