@@ -1,0 +1,9 @@
+sycl-env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+01_device_discovery
+02_vector_addition
+.DS_Store
+python/grayscale_output.png
